@@ -1,0 +1,15 @@
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/bin/Debug/net7.0/INSYGithubPractice
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/bin/Debug/net7.0/INSYGithubPractice.deps.json
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/bin/Debug/net7.0/INSYGithubPractice.runtimeconfig.json
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/bin/Debug/net7.0/INSYGithubPractice.dll
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/bin/Debug/net7.0/INSYGithubPractice.pdb
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.csproj.AssemblyReference.cache
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.AssemblyInfoInputs.cache
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.AssemblyInfo.cs
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.csproj.CoreCompileInputs.cache
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.dll
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/refint/INSYGithubPractice.dll
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.pdb
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/INSYGithubPractice.genruntimeconfig.cache
+/Users/danielnava/Projects/INSYGithubPractice/INSYGithubPractice/INSYGithubPractice/obj/Debug/net7.0/ref/INSYGithubPractice.dll
